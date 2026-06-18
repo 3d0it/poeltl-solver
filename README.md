@@ -1,6 +1,6 @@
 # Poeltl Solver
 
-[![CI](https://github.com/3d0it/poeltl-solver/actions/workflows/ci.yml/badge.svg)](https://github.com/3d0it/poeltl-solver/actions/workflows/ci.yml)
+[![CI](https://github.com/3d0it/poeltl-solver/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/3d0it/poeltl-solver/actions/workflows/ci.yml)
 
 A .NET console solver for a Poeltl-like NBA player guessing game.
 
